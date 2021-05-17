@@ -1,0 +1,109 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'en' Physical Memory: 16345 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Yliopiston kouluhommia/GamDev/VR-AR-walking-visualization/TuniTours
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61287
+Successfully changed project path to: F:/Yliopiston kouluhommia/GamDev/VR-AR-walking-visualization/TuniTours
+F:/Yliopiston kouluhommia/GamDev/VR-AR-walking-visualization/TuniTours
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Yliopiston kouluhommia/GamDev/VR-AR-walking-visualization/TuniTours/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008769 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.439 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1155 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 143.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 1.818700 ms (FindLiveObjects: 0.154700 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.506900 ms  DeleteObjects: 0.110900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(9af2dfb099a704649a397af976605b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(9af2dfb099a704649a397af976605b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320b60c3964567883434a7dc0b43f0fa') in 0.403149 seconds
+  Import took 0.410147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000822 seconds.
+  path: Assets/New Terrain 2.asset
+  artifactKey: Guid(c630ae0a24bf8b648be2470b15c0f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 2.asset using Guid(c630ae0a24bf8b648be2470b15c0f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f30d621a86059a3f11e29fdc6b78a9') in 0.045989 seconds
+  Import took 0.051561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.182063 seconds.
+  path: Assets/3D/cypress.fbx
+  artifactKey: Guid(babc811b121d2524884d11508136c718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/cypress.fbx using Guid(babc811b121d2524884d11508136c718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224db53218fecd566b5d997541abe946') in 0.094269 seconds
+  Import took 0.101239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.360072 seconds.
+  path: Assets/3D/greenwallthingie.fbx
+  artifactKey: Guid(9f5ff6c4b330d25408d5291ce6d93806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/greenwallthingie.fbx using Guid(9f5ff6c4b330d25408d5291ce6d93806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5a3b8db4da5e262433faa7b93ee52d') in 0.017957 seconds
+  Import took 0.024705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.286549 seconds.
+  path: Assets/3D/pine.fbx
+  artifactKey: Guid(1dd237e352bcdaa40b58ea4ddc130463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/pine.fbx using Guid(1dd237e352bcdaa40b58ea4ddc130463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7923b220f431432140d088dc2844978e') in 0.160328 seconds
+  Import took 0.166427 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
